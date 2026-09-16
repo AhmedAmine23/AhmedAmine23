@@ -8,18 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=850&height=55&lines=Electronic+Engineering+Student;Embedded+Systems+Engineer;Hardware+%E2%86%94+Firmware+%E2%86%94+Software;IoT+%7C+VLSI+%7C+Edge+Computing;Turning+Electronics+Into+Intelligent+Systems" alt="Typing SVG"/>
 
-<br>
-
-<a href="https://www.unige.it/">
-<img src="https://img.shields.io/badge/🎓%20M.Sc.%20Electronic%20Engineering-Università%20di%20Genova-1F4E79?style=for-the-badge"/>
-</a>
-<a href="https://www.linkedin.com/in/abbassi-ahmed-amine-1b2a24417">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ahmedamineabbassi@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=AhmedAmine23&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
@@ -30,8 +18,6 @@
 
 ### 👨‍💻 About Me
 I am an Electronic Engineering Master's student at the Università degli Studi di Genova, transitioning from an academic foundation in electronics and automation into the fast-paced world of embedded systems and edge AI. My engineering passion lies at the hardware-software boundary—designing real-time control logic, working with C/C++, and building autonomous cyber-physical systems. 
-
-When I am not debugging microcontrollers or reading sensor datasheets, you will probably find me managing my Fantasy Premier League team, practicing my conversational Italian, or experimenting with AI tools to generate custom visuals and Phonk music tracks.
 
 ---
 
@@ -62,23 +48,23 @@ When I am not debugging microcontrollers or reading sensor datasheets, you will 
 
 ### ⚡ Technical Arsenal
 
-**Languages:** 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Languages** <br>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Embedded & Edge:** 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=flat-square&logo=freertos&logoColor=white) 
-![Nvidia Jetson](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+**Embedded & Edge** <br>
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white) 
+![Nvidia Jetson](https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-**Software & Tools:** 
-![CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square) 
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt_Creator-41CD52?style=flat-square&logo=qt&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
-![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-006747?style=flat-square)
+**Software & Tools** <br>
+![CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge) 
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-006747?style=for-the-badge)
 
 ---
 
@@ -101,6 +87,21 @@ When I am not debugging microcontrollers or reading sensor datasheets, you will 
 ---
 
 <div align="center">
+  
   <br>
+  
+  <a href="https://www.unige.it/">
+    <img src="https://img.shields.io/badge/M.SC._ELECTRONIC_ENGINEERING-UNIVERSITÀ_DI_GENOVA-175586?labelColor=555555&style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abbassi-ahmed-amine-1b2a24417">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?labelColor=555555&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmedamineabbassi@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?labelColor=555555&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <br><br>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedAmine23&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333" height="150"/>
+  
 </div>
