@@ -1,6 +1,6 @@
 # Ahmed Amine Abbassi
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Electronic+Engineering+Student;Embedded+Systems+%7C+VLSI+%26+Analog+Design;Open+to+2026%2F2027+Internships&font=Fira+Code&size=18&pause=1600&color=1F3A5F&center=false&vCenter=true&width=560&height=30" alt="typing"/>
+*Electronic Engineering — Embedded Systems · VLSI & Analog Design*
 
 \`\`\`bash
 $ whoami
