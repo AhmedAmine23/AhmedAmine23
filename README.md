@@ -1,7 +1,8 @@
 <div align="center">
   
-  # 👋 Hi, I'm Ahmed Amine Abbassi
-  ### Embedded Systems Engineer | Hardware-Software Architect
+  <a href="https://www.linkedin.com/in/abbassi-ahmed-amine-1b2a24417">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1500&color=1F3A5F&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Ahmed+Amine+Abbassi;Embedded+Systems+Engineer;Hardware-Software+Architect" alt="Typing Greeting" />
+  </a>
   
   *Bridging the gap between physical hardware and edge intelligence.*
   
@@ -15,7 +16,7 @@
       <h3>📍 Current Status</h3>
       <ul>
         <li>🎓 <b>M.Sc. Candidate:</b> Electronic Engineering @ Università di Genova</li>
-        <li>💼 <b>Seeking:</b> 2026/2027 Internship (Embedded Firmware / Edge AI)</li>
+        <li>💼 <b>Seeking:</b> 2026/2027 Internship</li>
         <li>🌍 <b>Base:</b> Genoa, Italy (Open to relocation across Europe)</li>
         <li>🗣️ <b>Languages:</b> Arabic, French, English, Italian</li>
       </ul>
@@ -49,6 +50,7 @@
 
 **Software & Tools:** 
 ![CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square) 
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt_Creator-41CD52?style=flat-square&logo=qt&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
 ![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-006747?style=flat-square)
