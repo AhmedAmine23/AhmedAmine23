@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2A4C7A&height=200&section=header&text=Ahmed%20Amine%20Abbassi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Electronic%20Engineering%20%7C%20Embedded%20Systems%20%26%20VLSI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3A5F,100:2A4C7A&height=160&section=header&text=Ahmed%20Amine%20Abbassi&fontSize=44&fontColor=FFFFFF&fontAlignY=42&desc=Electronic%20Engineering%20%7C%20Embedded%20Systems%20%26%20VLSI&descAlignY=68&descSize=17" width="100%"/>
 
 <a href="https://www.linkedin.com/in/abbassi-ahmed-amine-1b2a24417">
   <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Systems+Engineer;VLSI+%26+Analog+IC+Design;Firmware+%2F+RTOS+Developer;Open+to+2026%2F2027+Internships&font=Fira+Code&size=20&pause=1500&color=1F3A5F&center=true&width=560&height=40&vCenter=true" alt="typing"/>
@@ -20,7 +20,7 @@
 
 - 🎓 **M.Sc. student** in Electronic Engineering at the Università degli Studi di Genova
 - 🧩 **Focused on** the hardware–software boundary — RTOS firmware, sensor systems and edge computing
-- 🔬 **Also into** analog / VLSI IC design — op-amps, oscillators, verified in Cadence Virtuoso
+- 🔬 **Also into** analog IC design, sensor technologies and electronic devices — from op-amps and oscillators to real-world sensor interfacing
 - 🌍 **Genoa-based, Tunisia-born**, working across French, English, Arabic and Italian
 - 👇 **My work lives in the pinned repositories below**
 
@@ -40,13 +40,13 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,python,mysql,php,js,latex,vscode&theme=dark" />
 
-### 🔬 VLSI & Analog Design
+### 🔬 Analog & Sensor Systems
 
 ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-006747?style=flat-square)
 ![nuXmv](https://img.shields.io/badge/-nuXmv%20Model%20Checker-333333?style=flat-square)
 ![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-41CD52?style=flat-square&logo=qt&logoColor=white)
 
-`0.18 µm CMOS` · `Formal Verification` · `Signal-level debugging`
+`Sensor Technologies` · `Electronic Devices` · `0.18 µm CMOS` · `Formal Verification`
 
 ---
 
@@ -68,6 +68,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AhmedAmine23&show_icons=true&theme=transparent&hide_border=true&title_color=1F3A5F&icon_color=1F3A5F&text_color=333333" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAmine23&theme=transparent&hide_border=true&ring=1F3A5F&fire=1F3A5F&currStreakLabel=1F3A5F" height="165"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedAmine23&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A4C7A,100:1F3A5F&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2A4C7A,100:1F3A5F&height=70&section=footer" width="100%"/>
